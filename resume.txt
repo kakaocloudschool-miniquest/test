@@ -1,0 +1,15 @@
+이름 권기연
+닉네임 hazel.kwon
+나이 27
+생일 3월 2일
+사는 곳 경기도 시흥시 정왕2동
+MBTI ISFJ
+학력 한신대 졸업
+<<<<<<< HEAD
+경력 클라우드 엔지니어(Microsoft 365 파트너사 8개월 계약직/인턴)
+자격증 컴퓨터활용능력 1급&2급, Microsoft Certified Associate 5개, Microsoft Certified Fundamentals 2개
+대외활동 AWS 파트너사 4-2 IPP 장기현장실습, 서포터즈 약 10건, 기자단 1건, 봉사활동 3건, 사이드 프로젝트 3건, 사무보조 아르바이트 2건, 교내 활동 3건
+사용기술 AWS, Linux, Windows PowerShell, MySQL, Office, Figma
+=======
+경력 클라우드 엔지니어(Microsoft 365 파트너사 8개월 계약직/인턴, AWS 파트너사 4-2 IPP 장기현장실습)
+>>>>>>> sub1
